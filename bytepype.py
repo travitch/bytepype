@@ -9,12 +9,14 @@
 # for the input and output channels).
 import abc
 import argparse
+import collections
 import dis
 import importlib.machinery
 import json
 import sys
 from typing import Dict, IO, List, Optional
 import types
+import math
 
 # Protocol
 
