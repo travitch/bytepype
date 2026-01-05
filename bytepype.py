@@ -14,7 +14,6 @@ import importlib.machinery
 import json
 import sys
 from typing import Dict, IO, List, Optional
-import types
 
 # Protocol
 
